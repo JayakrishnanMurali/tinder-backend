@@ -1,0 +1,16 @@
+{
+  "name": "tinder-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": "https://github.com/JayakrishnanMurali/tinder-backend.git",
+  "author": "Jayakrishnan <Jayakrishnan1012@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  }
+}
